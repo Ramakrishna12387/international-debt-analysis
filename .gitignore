@@ -1,0 +1,9 @@
+
+.venv310/
+venv/
+__pycache__/
+*.pyc
+COUNTRIES.xlsx/
+*.csv
+.env
+.streamlit/secrets.toml
